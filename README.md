@@ -5,3 +5,8 @@ Intro to git
 Ben's change
 
 # This is another of Ben's changes
+
+# Ben's third change
+This is another one
+
+# Here is a fourth change
